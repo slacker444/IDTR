@@ -20,3 +20,4 @@ def qr():
             elif code==22:
                 case=4
             return case
+        ''''''

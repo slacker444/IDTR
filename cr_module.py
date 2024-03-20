@@ -27,3 +27,4 @@ def cr(threshold):
     '''elif 20 <= threshold[0] <= threshold[1] <= 80 and -20 <= threshold[2] <= threshold[3] <= 20 and -40 <= threshold[4] <= threshold[5] <= 30:
         cr_status = 4''' # 棕色
     return cr_status
+''''''
